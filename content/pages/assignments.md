@@ -27,7 +27,36 @@ Paper
 Problem Sets
 ------------
 
-| ASSIGNMENTS | SOLUTIONS |
-| --- | --- |
-| [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit12_007s13_pset_3) | [Solution 1 (PDF)]({{< baseurl >}}/resources/mit12_007s13_solution_3) (Courtesy of Katherine French. Used with permission.) |
-| [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit12_007s13_pset_4) | [Solution 2 (PDF)]({{< baseurl >}}/resources/mit12_007s13_solution_4) (Courtesy of Katherine French. Used with permission.)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit12_007s13_pset_3)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solution 1 (PDF)]({{< baseurl >}}/resources/mit12_007s13_solution_3) (Courtesy of Katherine French. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit12_007s13_pset_4)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solution 2 (PDF)]({{< baseurl >}}/resources/mit12_007s13_solution_4) (Courtesy of Katherine French. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
