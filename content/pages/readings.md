@@ -107,7 +107,7 @@ Prebiotic chemistry, Nucleic acids, Amino Acids and Chirality, Origins of life, 
 
 \[Stanley\] pp. 103–27.
 
-Hayes, John M. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Practice and Principles of Isotopic Measurements in Organic Geochemistry." (PDF)](http://www.gps.caltech.edu/~als/research-articles/other_stuff/hayespnp.pdf) (2002).
+Hayes, John M. "[Practice and Principles of Isotopic Measurements in Organic Geochemistry." (PDF)](http://www.gps.caltech.edu/~als/research-articles/other_stuff/hayespnp.pdf) (2002).
 
 
 {{< tdclose >}}
@@ -131,7 +131,7 @@ Isotope paper: Des Marais C-cycle
 
 \[Stanley\] pp. 221–44.
 
-Hayes, John M. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Fractionation of the Isotopes of Carbon and Hydrogen in Biosynthetic Processes." (PDF)](http://www.whoi.edu/fileserver.do?id=73288&pt=2&p=74886)
+Hayes, John M. "[Fractionation of the Isotopes of Carbon and Hydrogen in Biosynthetic Processes." (PDF)](http://www.whoi.edu/fileserver.do?id=73288&pt=2&p=74886)
 
 
 {{< tdclose >}}
